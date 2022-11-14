@@ -1,0 +1,24 @@
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\bin\Debug\Crucigrama.exe.config
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\bin\Debug\Crucigrama.exe
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\bin\Debug\Crucigrama.pdb
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\bin\Debug\Crucigrama.xml
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.AssemblyReference.cache
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.Form1.resources
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.Resources.resources
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.GenerateResource.cache
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.CoreCompileInputs.cache
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.exe
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.xml
+C:\Users\PABLO\source\repos\Crucigrama\Crucigrama\obj\Debug\Crucigrama.pdb
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\bin\Debug\Crucigrama.exe.config
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\bin\Debug\Crucigrama.exe
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\bin\Debug\Crucigrama.pdb
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\bin\Debug\Crucigrama.xml
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.AssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.Form1.resources
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.GenerateResource.cache
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.vbproj.CoreCompileInputs.cache
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.exe
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.xml
+D:\Laboratorio de Programación Orientada a Objetos\Ejercicios VB\Crucigrama\Crucigrama\obj\Debug\Crucigrama.pdb
